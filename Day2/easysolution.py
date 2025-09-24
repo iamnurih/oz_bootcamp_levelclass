@@ -7,7 +7,7 @@ while len(number_list) < B:
         number_list.append(i)
         if len(number_list) >= B:
             break
-    i +=1
+    i += 1
 
 start_index = A - 1
 end_index = B
